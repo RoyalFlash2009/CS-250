@@ -21,3 +21,7 @@ In this project you will create an application that tests whether all fields wit
 In this project you will create an application that responds to the movements of the mouse over and out of a  page object.
 
 ## Chapter 3
+
+### Hands-On Project 3-1
+In this project you create an application that calculates the total cost of items selected from a lunch menu  using a for loop and an if statement as part of the program code.
+
